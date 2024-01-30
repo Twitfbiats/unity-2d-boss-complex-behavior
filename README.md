@@ -1,6 +1,6 @@
 ## About The Project
 
-[![Boss Preview][boss-preview]](PreviewStuffs/boss.gif)
+[![Boss Preview][boss-preview]](PreviewStuffs/boss.mp4)
 
 This is a boss that i made using Unity and i want to share it with you guys.
 You can import the code and try it yourself.
