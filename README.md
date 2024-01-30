@@ -7,4 +7,4 @@ You can import the code and try it yourself.
 
 The Unity Version is: 2022.3.10f1
 
-[boss-preview]: PreviewStuffs/boss.gif
+[boss-preview]: PreviewStuffs/boss.mp4
